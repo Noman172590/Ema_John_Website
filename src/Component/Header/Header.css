@@ -1,0 +1,24 @@
+.logoBackground {
+    height: 80px;
+    background-color: #1C2B35;
+    padding-left: 112px;
+    padding-right: 97px;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+
+}
+
+.ancorTag a {
+
+    color: white;
+    font-size: 17px;
+    font-weight: 400;
+    letter-spacing: 0.09px;
+    font-family: Lato;
+    padding: 37px 32px;
+    text-decoration: none;
+
+}
